@@ -1,4 +1,3 @@
-# Site settings
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
@@ -7,7 +6,7 @@ middle_name: M.
 last_name: Alzahrani
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: PhD student Pennsylvania State University
+description:  > PhD student Pennsylvania State University
 
 
 I am a PhD student  in informatics at Pennsylvania State University’s College of Information Sciences and Technology. 
